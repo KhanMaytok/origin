@@ -1192,7 +1192,7 @@ button.trigger span::before {
 /* Media Queries */
 @media screen and (max-width: 47em) {
 	.title, .content {
-		font-size: 70%;
+		font-size: 80%;
 	}
 
 	.codrops-demos a {
@@ -1247,11 +1247,7 @@ button.trigger span::before {
 		top: 60px;
 		-webkit-transform: translateX(-50%);
 		transform: translateX(-50%);
-	}
-
-	.title, .content {
-		font-size: 50%;
-	}
+	}	
 
 	button.trigger::before {
 		display: none;
